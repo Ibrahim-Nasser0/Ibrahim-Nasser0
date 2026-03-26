@@ -25,8 +25,8 @@ class IbrahimNasser extends FlutterDeveloper {
   final String university    = "Suez Canal University — B.Sc. CS (2027)";
   final String speciality    = "Cross-Platform Mobile & Desktop Apps";
   final String focus         = "Clean Architecture · BLoC · RESTful APIs";
-  final List   architectures = ["Clean Architecture", "MVVM", "MVC"];
-  final List   principles    = ["SOLID", "OOP", "Repository Pattern", "DI"];
+  final List<String> architectures  = ["Clean Architecture", "MVVM", "MVC"];
+  final List<String> principles    = ["SOLID", "OOP", "Repository Pattern", "DI"];
   final String status        = "Open to Opportunities 🚀";
 }
 ```
