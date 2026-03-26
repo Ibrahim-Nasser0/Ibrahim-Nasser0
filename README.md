@@ -89,12 +89,30 @@ class IbrahimNasser extends FlutterDeveloper {
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### [🌍 Donation Management System (Mobile & Desktop Ecosystem)](https://github.com/Ibrahim-nasser0/donation_management_system_mobile)
+![Flutter](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?style=flat-square&logo=flutter)
+![Clean Arch](https://img.shields.io/badge/Arch-Clean%20Architecture-green?style=flat-square)
+![State](https://img.shields.io/badge/State-BLoC_%7C_Cubit-00B4D8?style=flat-square)
+![UI](https://img.shields.io/badge/UI-Premium_%26_Responsive-purple?style=flat-square)
+![Dio](https://img.shields.io/badge/Network-Dio-764ABC?style=flat-square)
+
+- **Comprehensive Ecosystem:** Features a Premium Mobile App for donors and a robust Desktop Dashboard for admins.
+- **Smart Architecture:** Built with a Pragmatic 2-Layer Clean Architecture For (Mobile & Desktop).
+- **Premium UI/UX:** Integrates interactive credit card payments, parallax scrolling, Lottie animations, and Shimmer loaders.
+- **Advanced Features:** Gamified "Impact Score" for donors, real-time urgent case tracking, and secure data persistence.
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍔 Hungry — Food E-Commerce App
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter)
 ![BLoC](https://img.shields.io/badge/State-BLoC%2FCubit-00B4D8?style=flat-square)
 ![Clean Arch](https://img.shields.io/badge/Arch-Clean%20Architecture-green?style=flat-square)
+![Dio](https://img.shields.io/badge/Network-Dio-764ABC?style=flat-square)
 
 - Feature-Driven Clean Architecture + SOLID
 - Repository Pattern & `get_it` for DI
@@ -107,6 +125,7 @@ class IbrahimNasser extends FlutterDeveloper {
 ### 📚 Bookly — E-Book Store
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter)
 ![BLoC](https://img.shields.io/badge/State-BLoC-00B4D8?style=flat-square)
+![MVVM](https://img.shields.io/badge/Arch-MVVM%2BCubit-orange?style=flat-square)
 ![Dio](https://img.shields.io/badge/Network-Dio-764ABC?style=flat-square)
 
 - Clean Architecture with Dio network layer
@@ -116,20 +135,8 @@ class IbrahimNasser extends FlutterDeveloper {
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-### 🖥️ Donors Management System — Desktop
-![Flutter](https://img.shields.io/badge/Flutter-Desktop-02569B?style=flat-square&logo=flutter)
-![MVVM](https://img.shields.io/badge/Arch-MVVM-orange?style=flat-square)
-![Admin](https://img.shields.io/badge/Type-Admin_Dashboard-red?style=flat-square)
-
-- MVVM + Feature-Driven Architecture
-- Comprehensive error handling & data persistence
-- Intuitive admin dashboards
-- Optimized desktop performance
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎓 Student Information System — Desktop
@@ -143,8 +150,6 @@ class IbrahimNasser extends FlutterDeveloper {
 - **95+ code quality score** via MVVM + Cubit
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👗 Open Fashion — E-Store
@@ -157,8 +162,6 @@ class IbrahimNasser extends FlutterDeveloper {
 - Smooth animations for a premium UX
 - State managed with Provider
 
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
