@@ -211,12 +211,18 @@ class IbrahimNasser extends FlutterDeveloper {
 
 <div align="center">
 
+<div align="center">
+
 ```dart
-while (alive) {
+void liveLife() {
+                if (!isAlive)return; // Base case
+
   eat();
   sleep();
-  code();  // Flutter 💙
-  repeat();
+  coffee();
+                code(); // Flutter 💙
+
+  liveLife(); 
 }
 ```
 
