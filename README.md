@@ -174,19 +174,19 @@ class IbrahimNasser extends FlutterDeveloper {
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Nasser0&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ibrahim-nasser0&theme=radical&show_icons=true&count_private=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Nasser0&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-nasser0&theme=radical&hide_border=true" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ibrahim-Nasser0&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ibrahim-nasser0&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
 </p>
 
 <div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Ibrahim-Nasser0&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Ibrahim-nasser0&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 
 ---
